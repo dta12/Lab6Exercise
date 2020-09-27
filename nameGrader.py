@@ -8,9 +8,9 @@ def roundScore(score):
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabetList = splitStr(alphabet)
 name = str(input("enter your name: "))
-name = name.lower()
-name = name.strip()
-name = name.replace(' ', '')
+name.lower()
+name.strip()
+name.replace(' ', '')
 nameLetters = splitStr(name)
 nameLength = int(input("how many letters are in your name? "))
 sumScore = 0
