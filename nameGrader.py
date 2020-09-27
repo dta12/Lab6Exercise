@@ -1,6 +1,7 @@
 def splitStr(any_String):
     return [char for char in any_String]
 
+
 def roundScore(score):
     return round(score, 2)
 
