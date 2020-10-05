@@ -29,6 +29,8 @@ Finally to apply changes to the forked repo, you need to enter the command below
 ``
 git push origin master
 ``<br/>
-to contribute your changes to the project, you need to make a pull request for your forked repository and then the project maintainer will examine it and decide whether to add the changes or not.
+to contribute your changes to the project, you need to make a pull request for your forked repository and then the project maintainer will examine it and decide whether to add the changes or not. <br/>
+#Miscellany
+We chose to use the permissive MIT license since it has few limitations to use our project in whatever way the user wants. It grants users the ability to modify and/or distribute for private and commercial use, with the condition that our copyright and license is included.
 
 
