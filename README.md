@@ -10,7 +10,7 @@ $ git clone https://github.com/dta12/Lab6Exercise
 ``
 
 ## Usage
-To begin using the software, either compile the .py file and then run it, or run the first code block in the .ipynb file. In both cases, they will ask you for your name. AFter typing that in and pressing enter, it will ask you for the number of letters in your name( do not count whitespaces, or any punctuation mark such as a hyphen). AFter typing both of these things in, the program will output a numeric result which is the score your name recieved. The score itself does not equate to any realistic value and it does not carry any meaning.
+To begin using the software, either compile the .py file and then run it, or run the first code block in the .ipynb file. In both cases, they will ask you for your name. After typing that in and pressing enter, it will ask you for the number of letters in your name( do not count whitespaces, or any punctuation mark such as a hyphen). After typing both of these things in, the program will output a numeric result which is the score your name recieved. The score itself does not equate to any realistic value and it does not carry any meaning.
 ## How to contribute
 To contribute to the project, you will need to fork the main repository wth the SSH protocol. Your changes need to occur in the forked repository. After applying the fork, clone the forked repo onto your locally system by following the command below. <br/>
 ``
