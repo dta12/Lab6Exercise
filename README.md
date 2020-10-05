@@ -20,12 +20,12 @@ to be able to make changed onto the forked repoistory you need to run the comman
 ``
 git remote add upstream 
 ``<br/>
-after the above setup, to make sure you have the most recent updated master repo you need to run the command below.
+after the above setup, to make sure you have the most recent updated master repo you need to run the command below. <br/>
 ``
 git pull upstream master
 ``<br/>
 which will update your local clone on your machine to the most recent version. <br/>
-Finally to apply changes to the forked repo, you need to enter the command below.
+Finally to apply changes to the forked repo, you need to enter the command below.<br/>
 ``
 git push origin master
 ``<br/>
